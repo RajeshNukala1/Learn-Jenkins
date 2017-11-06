@@ -4,6 +4,8 @@ An example [Job DSL](https://github.com/jenkinsci/job-dsl-plugin) project that u
 
 ## File structure
 
+/*****test******/
+
     .
     ├── jobs                    # DSL script files
     ├── resources               # resources for DSL scripts
